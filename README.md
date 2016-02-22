@@ -40,7 +40,7 @@ Evaluates the [complementary error function][complementary-error-function].
 var y = erfc( 2 );
 // returns ~0.0047
 
-y = erfc( -1 )
+y = erfc( -1 );
 // returns ~1.8427
 
 y = erfc( Number.POSITIVE_INFINITY );
