@@ -7,14 +7,14 @@ erfc
 The [complementary error function][complementary-error-function] is defined as
 
 <div class="equation" align="center" data-raw-text="\operatorname{erfc}(x) = 1 - \operatorname{erf}(x) = \frac{2}{\sqrt\pi} \int_x^{\infty} e^{-t^2}\, dt" data-equation="eq:complementary_error_function">
-	<img src="" alt="Complementary error function.">
+	<img src="https://cdn.rawgit.com/math-io/erfc/6a3c31e54a292113c162a66f4947913cf0c1fb9b/docs/img/eqn.svg" alt="Complementary error function.">
 	<br>
 </div>
 
 The [complementary error function][complementary-error-function] can also be expressed using Craig's formula
 
 <div class="equation" align="center" data-raw-text="\operatorname{erfc}(x) = \frac{2}{\pi} \int_0^{\frac{\pi}{2}} \exp \left( - \frac{x^2}{\sin^2 \theta} \right) d\theta" data-equation="eq:craigs_formula">
-	<img src="" alt="Craig's formula of the complementary error function.">
+	<img src="https://cdn.rawgit.com/math-io/erfc/6a3c31e54a292113c162a66f4947913cf0c1fb9b/docs/img/craigs_formula.svg" alt="Craig's formula of the complementary error function.">
 	<br>
 </div>
 
